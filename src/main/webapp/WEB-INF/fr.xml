@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labels>
+	<label key="firstName">Prénom</label>
+	<label key="lastName">Nom de famille</label>
+	<label key="email">Email</label>
+	<label key="address">Adresse</label>
+	<label key="gender">Sexe</label>
+	<label key="occupation">Profession</label>
+</labels>
